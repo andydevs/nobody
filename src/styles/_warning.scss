@@ -1,0 +1,21 @@
+#warning {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    place-items: center;
+}
+
+#warning-bottom {
+    position: absolute;
+    bottom: 0;
+    font-size: 6pt;
+    z-index: 1;
+    color: #111;
+}
