@@ -1,12 +1,16 @@
 # Site settings
-title: Nobody Important
+title: Rael Suluvoiyr
 description: My portfolio site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Nobody Important
-user_description: Hello my name is Nobody Important, I'm an engineer at Quad Absque Libero (QAL). My mission is to help the world with the cutting edge in false-reality technologies and scalable negative space solutions!
+username: Rael Suluvoiyr
+user_description: >
+  Hello my name is Rael Suluvoiyr, I'm an engineer at Quad 
+  Absque Libero (QAL). My mission is to help the world with 
+  the cutting edge in false-reality technologies and scalable 
+  negative space solutions!
 user_title: Engineer at QAL
 
 # Google-analytics
