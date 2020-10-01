@@ -18,3 +18,10 @@
     grid-template-columns: 1fr;
     place-items: center;
 }
+#warning-bottom {
+    position: absolute;
+    bottom: 0;
+    font-size: 6pt;
+    z-index: 1;
+    color: #111;
+}
